@@ -1,4 +1,4 @@
-# Project-Analysis-of-Airbnb-Data-Using-Power-BI
+# Project Analysis of Airbnb Data Using Power BI
 📊 BI Analyst at iVision Analytics
 
 ---
