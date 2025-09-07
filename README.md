@@ -23,20 +23,3 @@
 
 ---
 
-## 📊 Key Deliverables
-- **Power BI File (.pbix)** → Full interactive dashboards.  
-- **Presentation (.pptx)** → Summary of insights.  
-- **Documentation (.md)** → Supporting notes & findings.  
-
----
-
-## 🚀 Insights Highlight
-- District *XYZ* had the **lowest location score**.  
-- Listings with **faster host response times** had higher ratings.  
-- Entire place **Lofts** recorded the **highest average prices**.  
-- Visitor trends in **2020 dropped significantly vs 2019**, likely due to pandemic impact.  
-
----
-
-## 📦 Submission Format
-Final deliverable as per project guideline:  
